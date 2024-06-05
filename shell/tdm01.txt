@@ -1,0 +1,3 @@
+Est-ce que j’arrive
+a rediriger la
+sortie standard?
